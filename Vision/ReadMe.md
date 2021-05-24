@@ -7,3 +7,5 @@
 
     미세조정
 
+OneHOt vs argmax
+
